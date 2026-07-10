@@ -2,6 +2,10 @@
 
 Sistema de gestión de inventario con frontend SPA en JavaScript Vanilla y backend en .NET, que incluye un panel administrativo y un chatbot integrado para asistencia en ventas.
 
+## 👇🏻 Despliegue de proyecto
+
+https://inventario-inteligente.netlify.app/
+
 ## ✨ Características
 
 - Dashboard con métricas y estadísticas en tiempo real.

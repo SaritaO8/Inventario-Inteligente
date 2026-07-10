@@ -4,7 +4,7 @@
 
 import { api } from '../api/client.js';
 import { actions, store } from '../state/store.js';
-import { createCard, createButton, createModal, createLoader, createAlert } from '../components/common.js';
+import { createCard, createButton, createModal, createLoadechr, createAlert } from '../components/common.js';
 
 export const productsPage = {
   render: async () => {

@@ -240,24 +240,4 @@ import { store } from './src/state/store.js';
 console.log(store.getState());
 ```
 
-## 📚 Documentación Adicional
 
-- [Tailwind CSS Docs](https://tailwindcss.com/docs)
-- [MDN Web Docs](https://developer.mozilla.org/)
-
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, seguir el estilo de código existente.
-
-## 📄 Licencia
-
-Este proyecto es de uso privado.
-
-## 📞 Soporte
-
-Para problemas o sugerencias, contactar al equipo de desarrollo.
-
----
-
-**Versión**: 1.0.0
-**Última actualización**: 2024

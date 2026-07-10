@@ -1,4 +1,4 @@
-# 🏪 Frontend Inventario Inteligente
+# 🏪 Inventario Inteligente
 
 Sistema de gestión de inventario frontend con interfaz de administración y chatbot integrado.
 

@@ -26,7 +26,6 @@ inventario-inteligente/
 ├── Inventory.Web/          # Aplicación web ASP.NET Core
 ├── src/                    # Frontend SPA
 │   ├── api/
-│   ├── assets/
 │   ├── components/
 │   ├── css/
 │   ├── pages/

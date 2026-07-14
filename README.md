@@ -62,10 +62,6 @@ El frontend consume la API REST expuesta por `Inventory.Api`, que provee endpoin
 - Métricas del dashboard
 - Chatbot
 
-## 📱 Responsividad
-
-La interfaz está diseñada para funcionar correctamente en dispositivos móviles, tabletas y escritorio.
-
 ---
 
 Desarrollado como proyecto académico para la gestión inteligente de inventarios y ventas.
